@@ -1,6 +1,6 @@
 # 1.介绍
 
-本项目是使用java封装调用ChatGPT官方API接口的简易demo。
+本项目是使用java封装调用ChatGPT官方API接口的简易demo。本项目参考了<a href="https://github.com/LiLittleCat/ChatGPT">LiLittleCat/ChatGPT</a>。
 
 主要功能是根据ChatGPT官方文档构建请求，并解析回复实现ChatGPT对话，参数详情参考<a href="https://platform.openai.com/docs/api-reference/chat/create">官方文档</a>。
 
